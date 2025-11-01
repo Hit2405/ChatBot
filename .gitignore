@@ -25,3 +25,5 @@ Thumbs.db
 
 # === Streamlit cache (if you use Streamlit) ===
 .streamlit/
+
+.gitignore
