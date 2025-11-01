@@ -1,1 +1,27 @@
+# === Python environment ===
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+*.log
+
+# === Environment variables ===
 .env
+.env.*
+
+# === IDE / Editor folders ===
+.idea/
+.vscode/
+
+# === OS generated files ===
+.DS_Store
+Thumbs.db
+
+# === Data files ===
+# Uncomment the next line if you want to hide user data
+# users.csv
+
+# === Streamlit cache (if you use Streamlit) ===
+.streamlit/
